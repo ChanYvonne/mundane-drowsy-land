@@ -18,6 +18,11 @@ box -40 0 40 40 100 80
 push
 move -20 -100 0
 box -10 0 10 20 125 20
+//DONUT
+push
+move -10 -100 -20
+torus -10 0 10 10 30
+pop
 pop
 pop
 //RIGHT ARM
